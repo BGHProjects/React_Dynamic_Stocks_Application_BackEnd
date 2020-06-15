@@ -1,0 +1,30 @@
+{
+  "name": "qut-cab230-teaching",
+  "version": "0.0.1",
+  "description": "resources to be used by the QUT CAB230 teaching team",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trjstewart/qut-cab230-teaching.git"
+  },
+  "author": "Tylor Stewart <trjstewart@gmail.com>",
+  "contributors": [],
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/trjstewart/qut-cab230-teaching/issues"
+  },
+  "homepage": "https://github.com/trjstewart/qut-cab230-teaching#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-html-reporter": "^2.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.1",
+    "https": "^1.0.0",
+    "ssl": "^1.0.0",
+    "uuid": "^3.3.2"
+  }
+}
